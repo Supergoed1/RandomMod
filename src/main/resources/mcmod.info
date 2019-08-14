@@ -1,0 +1,16 @@
+[
+{
+  "modid": "randommod",
+  "name": "Random Mod",
+  "description": "A Random Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Supergoed1"],
+  "credits": "Me, Myself and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
